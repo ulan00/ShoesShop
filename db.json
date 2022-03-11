@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "title": "Туфли бальные SOLO",
+      "image": "https://www.odintsovo-sport.ru/uploads/product/20900/20967/thumbs/30_chern_2019-02-18_10-43-37.jpg",
+      "price": "800",
+      "type": "Женская Обувь",
+      "description": "это туфли для девушек",
+      "id": 1
+    },
+    {
+      "title": "Туфли Мокасины",
+      "image": "https://world-mans.ru/image/818-15.jpg",
+      "price": "890",
+      "type": "Туфли",
+      "description": "классика",
+      "id": 2
+    },
+    {
+      "title": "Обувь Ecco",
+      "image": "https://www.sumochka.com/upload/articles/11/1.jpg",
+      "price": 1290,
+      "type": "Мужская Обувь",
+      "description": "Обувь для мужчин",
+      "id": 3
+    },
+    {
+      "title": "Детская Обувь - Кроссы",
+      "image": "https://ae04.alicdn.com/kf/HTB1q7hyRXXXXXchapXXq6xXFXXXO/1.jpg",
+      "price": "450",
+      "type": "Детская Обувь",
+      "description": "обувь для детей",
+      "id": 4
+    },
+    {
+      "title": "Кроссовки Nike Free V3",
+      "image": "https://outmaxshop.ru/components/com_jshopping/files/img_products/425/nike-free-3-0-v3-425-1.jpg",
+      "price": 1390,
+      "type": "Кроссовки",
+      "description": "топ обувь",
+      "id": 5
+    }
+  ]
+}
